@@ -1,0 +1,10 @@
+Balanced PArenthese
+
+_ len1
+_ _ len-2
+_ _ _ len-3
+For odd length sring balnced parentheses not possivble
+
+
+USe Stack
+IF openeing bracket push ,if closing pop
